@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+  width: 800px;
+}
+
+.block-button {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 600px;
+  justify-content: space-between;
+}
+
+header {
+  padding-top: 20px;
+}
